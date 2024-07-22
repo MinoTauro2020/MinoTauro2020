@@ -54,10 +54,10 @@ He descubierto y documentado varias vulnerabilidades de día cero (CVE). Aquí h
 - **[Recond_subdomains](https://github.com/MinoTauro2020/Recond_subdomains)**: Recolecta subdominios sin API, obtiene puertos y subdominios activos.
 
 ## CTF
-### Hack The Box
+### Hack The Box [![Hack The Box](https://www.hackthebox.eu/badge/image/66985)](https://app.hackthebox.com/profile/66985)
 - Clasificado #28 en España
 - Título: Pro Hacker
-### TryHackMe
+### TryHackMe [![TryHackMe](https://img.shields.io/badge/TryHackMe-MinoTauro-brightgreen?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/MinoTauro)
 - Clasificado #9 en el CTF de Buffer Overflow
 
 ## 🎤 Ponencias y Conferencias

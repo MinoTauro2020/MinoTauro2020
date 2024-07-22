@@ -8,16 +8,25 @@
 Soy un apasionado de la **seguridad informática** con experiencia en la identificación y documentación de **vulnerabilidades**. Aquí encontrarás mis contribuciones más recientes y algunos de mis proyectos destacados.
 
 ## 🛠 Habilidades
-- **Lenguajes de programación**: Python, JavaScript, HTML/CSS
-- **Herramientas de seguridad**: Burp Suite, OWASP ZAP, Metasploit
-- **Sistemas operativos**: Windows, Linux
+- **Lenguajes de programación**: Python, JavaScript, HTML/CSS, Bash, PowerShell, C++ ....
+- **Herramientas de seguridad**: Burp Suite, OWASP ZAP, Metasploit, Wireshark, Nmap, Nessus, Aircrack-ng, Snort, Suricata, Splunk, ELK Stack ...
+- **Sistemas operativos**: Windows, Linux, macOS ...
+- **Red Team**: Pentesting, Adversary Simulation, Exploit Development, Social Engineering , Malware Development , Evasion ...
+- **Blue Team**: Incident Response, Forensic Analysis, Threat Detection, SIEM Management, Malware Analysis , Splunk , Wazuh ...
+- **Purple Team**: Collaborative Defense, Security Testing, Continuous Improvement, Threat Emulation , Caldera ...
+- **Threat Hunting**: Behavioral Analysis, Threat Intelligence, Anomaly Detection, Advanced Persistent Threat (APT) Detection ...
+- **Cloud Security**: AWS, Azure, Google Cloud, Cloud Security Posture Management (CSPM) ...
+- **Certificaciones**: OSCP, CRTO, CRTP, CRTE, CRTCOI, CPTA, CRTS, CPIA, MCRTA, CHEE, CPHE
+
+## 🏆 Logros y Premios
+- **Certificación OSCP**: Certified Offensive Security Professional.
+- **Premio al mejor investigador de seguridad 2023** en [Conferencia de Seguridad XYZ](#).
 
 ## 🏆 CVEs Publicados
 He descubierto y documentado varias vulnerabilidades de día cero (CVE). Aquí hay algunos ejemplos:
 - **[CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149)**: CSRF ADD ROOT ACCOUNT
 - **[CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)**: CSRF DELETE ACCOUNT
 - **[CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147)**: CSRF Vulnerability
-- **[CVE-2023-40869](https://github.com/MinoTauro2020/CVE-2023-40869)**: Cross Site Scripting en mooSocial v.3.1.6.
 - **[CVE-2023-40868](https://github.com/MinoTauro2020/CVE-2023-40868)**: Cross Site Scripting in mooSocial
 
 ## 📁 Repositorios Destacados
@@ -135,6 +144,7 @@ He reportado fallos de seguridad a grandes empresas, incluyendo:
 
 ## 📫 Contacto
 - **LinkedIn**: [Aitor Herrero](https://www.linkedin.com/in/aitor-herrero)
+- **Twitter**: [MinoTauro2022](https://twitter.com/MinoTauro2022)
 - **Correo electrónico**: ahfseguridad@gmail.com
 
-
+¡Gracias por visitar mi perfil!

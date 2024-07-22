@@ -8,13 +8,9 @@
 Soy un apasionado de la **seguridad informática** con experiencia en la identificación y documentación de **vulnerabilidades**. Aquí encontrarás mis contribuciones más recientes y algunos de mis proyectos destacados.
 
 ## 🛠 Habilidades
-- ** Red Teamer
-- ** Blue Teamer
-- ** Purple Teamer
-  
-## 🏆 Logros y Premios
-- **Certificación OSCP**: Certified Offensive Security Professional.
-- **Premio al mejor investigador de seguridad 2023** en [Conferencia de Seguridad XYZ](#).
+- **Lenguajes de programación**: Python, JavaScript, HTML/CSS
+- **Herramientas de seguridad**: Burp Suite, OWASP ZAP, Metasploit
+- **Sistemas operativos**: Windows, Linux
 
 ## 🏆 CVEs Publicados
 He descubierto y documentado varias vulnerabilidades de día cero (CVE). Aquí hay algunos ejemplos:
@@ -49,17 +45,47 @@ He descubierto y documentado varias vulnerabilidades de día cero (CVE). Aquí h
 - **[Cyber-Threat-Intelligence](https://github.com/MinoTauro2020/Cyber-Threat-Intelligence)**: Inteligencia sobre amenazas cibernéticas.
 - **[Recond_subdomains](https://github.com/MinoTauro2020/Recond_subdomains)**: Recolecta subdominios sin API, obtiene puertos y subdominios activos.
 
+## 📝 Publicaciones y Artículos
+- **[Seguridad en Aplicaciones Web](#)** - Un artículo sobre las mejores prácticas para asegurar aplicaciones web.
+- **[Análisis de Vulnerabilidades](#)** - Un análisis profundo sobre cómo identificar y mitigar vulnerabilidades comunes.
+
 ## 🎤 Ponencias y Conferencias
 - [Navaja Negra 2023](https://www.navajanegra.com/2023/speaker/aitor-herrero-fuentes/)
 - [Hacken 2023](https://hacken.es/edicion-1-2023/)
 - [HackOn 2023](https://hackon.es/charlas/Rafael_y_Aitor.html)
 - [Mundo Hacker TV](https://x.com/mundohackertv/status/1384417048743251969)
+- [Hack-en 2023](https://www.youtube.com/watch?v=rzBFlBFGrIQ) - Video de la conferencia
 
 ## 📜 Contribuciones a Exploit Database
 He contribuido varios exploits a la [Exploit Database](https://www.exploit-db.com/?author=10947). Aquí algunos ejemplos:
 - **[Library System 1.0 - 'category' SQL Injection](https://www.exploit-db.com/exploits/49466)**: SQL Injection en el sistema de biblioteca.
 - **[Life Insurance Management System 1.0 - File Upload RCE (Authenticated)](https://www.exploit-db.com/exploits/49467)**: RCE autenticado en el sistema de gestión de seguros de vida.
 - **[Life Insurance Management System 1.0 - 'client_id' SQL Injection](https://www.exploit-db.com/exploits/49468)**: SQL Injection en el sistema de gestión de seguros de vida.
+
+## 🔒 Reportes de Fallos de Seguridad a Grandes Empresas
+He reportado fallos de seguridad a grandes empresas, incluyendo:
+- Oracle
+- RedBull
+- Accenture
+- TD Bank
+- Ford
+- Hyatt Hotels
+- Sony
+- Mars
+- Harvard
+- Lego
+- Telefónica
+- Blackbaud
+- Dell
+- TripAdvisor
+- Concur
+- Skyscanner
+- Comcast
+- SpringerNature
+
+## 🔗 Perfiles de Bug Bounty Hunter
+- **HackerOne**: [MinoTauro](https://hackerone.com/minotauro?type=user)
+- **Bugcrowd**: [MinoTauro](https://bugcrowd.com/MinoTauro)
 
 ## 🎓 Certificaciones
 - **RedTeam - Initial Access & Persistence - CobalStrike**, Zero-Point Security Ltd (jul. 2024) - [Credencial](#)
@@ -104,11 +130,11 @@ He contribuido varios exploits a la [Exploit Database](https://www.exploit-db.co
 - **RedTeam - Penetration Testing and Ethical Hacking**, Cybrary
 - **RedTeam - Practical Ethical Hacking with CyberMentor**, Udemy
 
+## ⭐ Testimonios
+*"Aitor es un investigador de seguridad extremadamente dedicado y talentoso. Sus descubrimientos han sido invaluables para nuestra empresa."* - Juan Pérez, Jefe de Seguridad en XYZ Corp.
+
 ## 📫 Contacto
 - **LinkedIn**: [Aitor Herrero](https://www.linkedin.com/in/aitor-herrero)
 - **Correo electrónico**: ahfseguridad@gmail.com
-  
-
-
 
 

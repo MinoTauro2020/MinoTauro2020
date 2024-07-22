@@ -8,6 +8,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-MinoTauro-brightgreen?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/MinoTauro)
 [![HackerOne](https://img.shields.io/badge/HackerOne-100000?style=flat&logo=hackerone&logoColor=white)](https://hackerone.com/minotauro?type=user)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F46800?style=flat&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/MinoTauro)
+[![Intigriti](https://img.shields.io/badge/Intigriti-0000FF?style=flat&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/profile/2338)
 
 
 Soy un apasionado de la **seguridad informática** con experiencia en la identificación y documentación de **vulnerabilidades**. Aquí encontrarás mis contribuciones más recientes y algunos de mis proyectos destacados.

@@ -1,55 +1,53 @@
-# 👋 Hola, soy MinoTauro2021
+# 👋 Hola, soy MinoTauro2020
 
-![GitHub followers](https://img.shields.io/github/followers/MinoTauro2021?style=social)
-![GitHub stars](https://img.shields.io/github/stars/MinoTauro2021?style=social)
+![GitHub followers](https://img.shields.io/github/followers/MinoTauro2020?style=social)
+![GitHub stars](https://img.shields.io/github/stars/MinoTauro2020?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aitor--herrero-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aitor-herrero/)
-![Profile views](https://komarev.com/ghpvc/?username=MinoTauro2021&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=MinoTauro2020&color=blue)
 
 Soy un apasionado de la **seguridad informática** con experiencia en la identificación y documentación de **vulnerabilidades**. Aquí encontrarás mis contribuciones más recientes y algunos de mis proyectos destacados.
 
 ## 🛠 Habilidades
-- ** Red Team - Blue Team - Purple Team
-   
+- ** Red Teamer
+- ** Blue Teamer
+- ** Purple Teamer
+  
 ## 🏆 Logros y Premios
 - **Certificación OSCP**: Certified Offensive Security Professional.
 - **Premio al mejor investigador de seguridad 2023** en [Conferencia de Seguridad XYZ](#).
 
 ## 🏆 CVEs Publicados
 He descubierto y documentado varias vulnerabilidades de día cero (CVE). Aquí hay algunos ejemplos:
-- **[CVE-2023-43149](https://github.com/MinoTauro2021/CVE-2023-43149)**: CSRF ADD ROOT ACCOUNT
-- **[CVE-2023-43148](https://github.com/MinoTauro2021/CVE-2023-43148)**: CSRF DELETE ACCOUNT
-- **[CVE-2023-40869](https://github.com/MinoTauro2021/CVE-2023-40869)**: Cross Site Scripting en mooSocial v.3.1.6.
-- **[CVE-2023-43147](https://github.com/MinoTauro2021/CVE-2023-43147)**: CSRF Vulnerability
-- **[CVE-2023-40868](https://github.com/MinoTauro2021/CVE-2023-40868)**: Cross Site Scripting in mooSocial
+- **[CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149)**: CSRF ADD ROOT ACCOUNT
+- **[CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)**: CSRF DELETE ACCOUNT
+- **[CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147)**: CSRF Vulnerability
+- **[CVE-2023-40869](https://github.com/MinoTauro2020/CVE-2023-40869)**: Cross Site Scripting en mooSocial v.3.1.6.
+- **[CVE-2023-40868](https://github.com/MinoTauro2020/CVE-2023-40868)**: Cross Site Scripting in mooSocial
 
 ## 📁 Repositorios Destacados
-- **[ActiveDirectory-_tips](https://github.com/MinoTauro2021/ActiveDirectory-_tips)**: Consejos y trucos para administrar Active Directory.
-- **[certifications](https://github.com/MinoTauro2021/certifications)**: Repositorio con material para certificaciones.
-- **[CVE-2023-43149](https://github.com/MinoTauro2021/CVE-2023-43149)**: CSRF ADD ROOT ACCOUNT.
-- **[CVE-2023-43147](https://github.com/MinoTauro2021/CVE-2023-43147)**: Vulnerabilidad CSRF.
-- **[CVE-2023-43148](https://github.com/MinoTauro2021/CVE-2023-43148)**: CSRF DELETE ACCOUNT.
-- **[CVE-2023-40869](https://github.com/MinoTauro2021/CVE-2023-40869)**: Cross Site Scripting en mooSocial v.3.1.6.
-- **[CVE-2023-40868](https://github.com/MinoTauro2021/CVE-2023-40868)**: CSRF en mooSocial Software v.Demo.
-- **[C-offensive](https://github.com/MinoTauro2021/C-offensive)**: Scripts y herramientas ofensivas en Shell.
-- **[OWASP](https://github.com/MinoTauro2021/OWASP)**: Resumen y recursos de OWASP.
-- **[UDM-Chronical](https://github.com/MinoTauro2021/UDM-Chronical)**: Repositorio UDM-Chronical.
-- **[Opsec](https://github.com/MinoTauro2021/Opsec)**: Repositorio de Opsec.
-- **[BugBounty_tips](https://github.com/MinoTauro2021/BugBounty_tips)**: Consejos para Bug Bounty.
-- **[BloodHound](https://github.com/MinoTauro2021/BloodHound)**: Repositorio BloodHound.
-- **[Oscp](https://github.com/MinoTauro2021/Oscp)**: Repositorio para preparación de OSCP.
-- **[CrackMapExec](https://github.com/MinoTauro2021/CrackMapExec)**: Comandos y enlaces para CrackMapExec.
-- **[Cobal-Strike](https://github.com/MinoTauro2021/Cobal-Strike)**: Repositorio Cobal-Strike.
-- **[Red-Team-Tips](https://github.com/MinoTauro2021/Red-Team-Tips)**: Consejos y trucos para Red Team.
-- **[Recursos-Goland](https://github.com/MinoTauro2021/Recursos-Goland)**: Recursos para Golang.
-- **[Evasion_Tips](https://github.com/MinoTauro2021/Evasion_Tips)**: Consejos para evasión.
-- **[AndroidBugBounty](https://github.com/MinoTauro2021/AndroidBugBounty)**: Encontrar cosas interesantes en APK.
-- **[Python_Programing](https://github.com/MinoTauro2021/Python_Programing)**: Programación en Python.
-- **[Cyber-Threat-Intelligence](https://github.com/MinoTauro2021/Cyber-Threat-Intelligence)**: Inteligencia sobre amenazas cibernéticas.
-- **[Recond_subdomains](https://github.com/MinoTauro2021/Recond_subdomains)**: Recolecta subdominios sin API, obtiene puertos y subdominios activos.
-
-## 📝 Publicaciones y Artículos
-- **[Seguridad en Aplicaciones Web](#)** - Un artículo sobre las mejores prácticas para asegurar aplicaciones web.
-- **[Análisis de Vulnerabilidades](#)** - Un análisis profundo sobre cómo identificar y mitigar vulnerabilidades comunes.
+- **[ActiveDirectory-_tips](https://github.com/MinoTauro2020/ActiveDirectory-_tips)**: Consejos y trucos para administrar Active Directory.
+- **[certifications](https://github.com/MinoTauro2020/certifications)**: Repositorio con material para certificaciones.
+- **[CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149)**: CSRF ADD ROOT ACCOUNT.
+- **[CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147)**: Vulnerabilidad CSRF.
+- **[CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)**: CSRF DELETE ACCOUNT.
+- **[CVE-2023-40869](https://github.com/MinoTauro2020/CVE-2023-40869)**: Cross Site Scripting en mooSocial v.3.1.6.
+- **[CVE-2023-40868](https://github.com/MinoTauro2020/CVE-2023-40868)**: CSRF en mooSocial Software v.Demo.
+- **[C-offensive](https://github.com/MinoTauro2020/C-offensive)**: Scripts y herramientas ofensivas en Shell.
+- **[OWASP](https://github.com/MinoTauro2020/OWASP)**: Resumen y recursos de OWASP.
+- **[UDM-Chronical](https://github.com/MinoTauro2020/UDM-Chronical)**: Repositorio UDM-Chronical.
+- **[Opsec](https://github.com/MinoTauro2020/Opsec)**: Repositorio de Opsec.
+- **[BugBounty_tips](https://github.com/MinoTauro2020/BugBounty_tips)**: Consejos para Bug Bounty.
+- **[BloodHound](https://github.com/MinoTauro2020/BloodHound)**: Repositorio BloodHound.
+- **[Oscp](https://github.com/MinoTauro2020/Oscp)**: Repositorio para preparación de OSCP.
+- **[CrackMapExec](https://github.com/MinoTauro2020/CrackMapExec)**: Comandos y enlaces para CrackMapExec.
+- **[Cobal-Strike](https://github.com/MinoTauro2020/Cobal-Strike)**: Repositorio Cobal-Strike.
+- **[Red-Team-Tips](https://github.com/MinoTauro2020/Red-Team-Tips)**: Consejos y trucos para Red Team.
+- **[Recursos-Goland](https://github.com/MinoTauro2020/Recursos-Goland)**: Recursos para Golang.
+- **[Evasion_Tips](https://github.com/MinoTauro2020/Evasion_Tips)**: Consejos para evasión.
+- **[AndroidBugBounty](https://github.com/MinoTauro2020/AndroidBugBounty)**: Encontrar cosas interesantes en APK.
+- **[Python_Programing](https://github.com/MinoTauro2020/Python_Programing)**: Programación en Python.
+- **[Cyber-Threat-Intelligence](https://github.com/MinoTauro2020/Cyber-Threat-Intelligence)**: Inteligencia sobre amenazas cibernéticas.
+- **[Recond_subdomains](https://github.com/MinoTauro2020/Recond_subdomains)**: Recolecta subdominios sin API, obtiene puertos y subdominios activos.
 
 ## 🎤 Ponencias y Conferencias
 - [Navaja Negra 2023](https://www.navajanegra.com/2023/speaker/aitor-herrero-fuentes/)
@@ -58,7 +56,7 @@ He descubierto y documentado varias vulnerabilidades de día cero (CVE). Aquí h
 - [Mundo Hacker TV](https://x.com/mundohackertv/status/1384417048743251969)
 
 ## 📜 Contribuciones a Exploit Database
-He contribuido varios exploits a la [Exploit Database](https://www.exploit-db.com/?author=10947).:
+He contribuido varios exploits a la [Exploit Database](https://www.exploit-db.com/?author=10947). Aquí algunos ejemplos:
 - **[Library System 1.0 - 'category' SQL Injection](https://www.exploit-db.com/exploits/49466)**: SQL Injection en el sistema de biblioteca.
 - **[Life Insurance Management System 1.0 - File Upload RCE (Authenticated)](https://www.exploit-db.com/exploits/49467)**: RCE autenticado en el sistema de gestión de seguros de vida.
 - **[Life Insurance Management System 1.0 - 'client_id' SQL Injection](https://www.exploit-db.com/exploits/49468)**: SQL Injection en el sistema de gestión de seguros de vida.
@@ -109,6 +107,8 @@ He contribuido varios exploits a la [Exploit Database](https://www.exploit-db.co
 ## 📫 Contacto
 - **LinkedIn**: [Aitor Herrero](https://www.linkedin.com/in/aitor-herrero)
 - **Correo electrónico**: ahfseguridad@gmail.com
+  
+
 
 
 

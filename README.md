@@ -21,10 +21,6 @@ Soy un apasionado de la **seguridad informática** con experiencia en la identif
 - **Cloud Security**: AWS, Azure, Google Cloud, Cloud Security Posture Management (CSPM) ...
 - **Certificaciones**: OSCP, CRTO, CRTP, CRTE, CRTCOI, CPTA, CRTS, CPIA, MCRTA, CHEE, CPHE
 
-## 🏆 Logros y Premios
-- **Certificación OSCP**: Certified Offensive Security Professional.
-- **Premio al mejor investigador de seguridad 2023** en [Conferencia de Seguridad XYZ](#).
-
 ## 🏆 CVEs Publicados
 He descubierto y documentado varias vulnerabilidades de día cero (CVE). Aquí hay algunos ejemplos:
 - **[CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149)**: CSRF ADD ROOT ACCOUNT
@@ -57,9 +53,12 @@ He descubierto y documentado varias vulnerabilidades de día cero (CVE). Aquí h
 - **[Cyber-Threat-Intelligence](https://github.com/MinoTauro2020/Cyber-Threat-Intelligence)**: Inteligencia sobre amenazas cibernéticas.
 - **[Recond_subdomains](https://github.com/MinoTauro2020/Recond_subdomains)**: Recolecta subdominios sin API, obtiene puertos y subdominios activos.
 
-## 📝 Publicaciones y Artículos
-- **[Seguridad en Aplicaciones Web](#)** - Un artículo sobre las mejores prácticas para asegurar aplicaciones web.
-- **[Análisis de Vulnerabilidades](#)** - Un análisis profundo sobre cómo identificar y mitigar vulnerabilidades comunes.
+## CTF
+### Hack The Box
+- Clasificado #28 en España
+- Título: Pro Hacker
+### TryHackMe
+- Clasificado #9 en el CTF de Buffer Overflow
 
 ## 🎤 Ponencias y Conferencias
 - [Navaja Negra 2023](https://www.navajanegra.com/2023/speaker/aitor-herrero-fuentes/)

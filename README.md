@@ -8,8 +8,8 @@
 Soy un apasionado de la **seguridad informática** con experiencia en la identificación y documentación de **vulnerabilidades**. Aquí encontrarás mis contribuciones más recientes y algunos de mis proyectos destacados.
 
 ## 🛠 Habilidades
-- ** Demasiadas
-  
+- ** Red Team - Blue Team - Purple Team
+   
 ## 🏆 Logros y Premios
 - **Certificación OSCP**: Certified Offensive Security Professional.
 - **Premio al mejor investigador de seguridad 2023** en [Conferencia de Seguridad XYZ](#).
@@ -58,7 +58,7 @@ He descubierto y documentado varias vulnerabilidades de día cero (CVE). Aquí h
 - [Mundo Hacker TV](https://x.com/mundohackertv/status/1384417048743251969)
 
 ## 📜 Contribuciones a Exploit Database
-He contribuido varios exploits a la [Exploit Database](https://www.exploit-db.com/?author=10947). Aquí algunos ejemplos:
+He contribuido varios exploits a la [Exploit Database](https://www.exploit-db.com/?author=10947).:
 - **[Library System 1.0 - 'category' SQL Injection](https://www.exploit-db.com/exploits/49466)**: SQL Injection en el sistema de biblioteca.
 - **[Life Insurance Management System 1.0 - File Upload RCE (Authenticated)](https://www.exploit-db.com/exploits/49467)**: RCE autenticado en el sistema de gestión de seguros de vida.
 - **[Life Insurance Management System 1.0 - 'client_id' SQL Injection](https://www.exploit-db.com/exploits/49468)**: SQL Injection en el sistema de gestión de seguros de vida.
@@ -105,9 +105,6 @@ He contribuido varios exploits a la [Exploit Database](https://www.exploit-db.co
 - **RedTeam - BugBounty for CVE's**, Udemy
 - **RedTeam - Penetration Testing and Ethical Hacking**, Cybrary
 - **RedTeam - Practical Ethical Hacking with CyberMentor**, Udemy
-
-## ⭐ Testimonios
-*"Aitor es un investigador de seguridad extremadamente dedicado y talentoso. Sus descubrimientos han sido invaluables para nuestra empresa."* - Juan Pérez, Jefe de Seguridad en XYZ Corp.
 
 ## 📫 Contacto
 - **LinkedIn**: [Aitor Herrero](https://www.linkedin.com/in/aitor-herrero)

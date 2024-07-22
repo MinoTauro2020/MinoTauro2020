@@ -72,6 +72,7 @@ He contribuido varios exploits a la [Exploit Database](https://www.exploit-db.co
 - **[Library System 1.0 - 'category' SQL Injection](https://www.exploit-db.com/exploits/49466)**: SQL Injection en el sistema de biblioteca.
 - **[Life Insurance Management System 1.0 - File Upload RCE (Authenticated)](https://www.exploit-db.com/exploits/49467)**: RCE autenticado en el sistema de gestión de seguros de vida.
 - **[Life Insurance Management System 1.0 - 'client_id' SQL Injection](https://www.exploit-db.com/exploits/49468)**: SQL Injection en el sistema de gestión de seguros de vida.
+- **[Exploit Database GHDB Entry #7836](https://www.exploit-db.com/ghdb/7836)**: Google Hacking Database entry.
 
 ## 🔒 Reportes de Fallos de Seguridad a Grandes Empresas
 He reportado fallos de seguridad a grandes empresas, incluyendo:

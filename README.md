@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aitor--herrero-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aitor-herrero/)
 ![Profile views](https://komarev.com/ghpvc/?username=MinoTauro2020&color=blue)
 [![Hack The Box](https://www.hackthebox.eu/badge/image/66985)](https://app.hackthebox.com/profile/66985)
-[!TryHackMe](https://tryhackme.com/p/MinoTauro)
+[TryHackMe](https://tryhackme.com/p/MinoTauro)
 
 
 Soy un apasionado de la **seguridad informática** con experiencia en la identificación y documentación de **vulnerabilidades**. Aquí encontrarás mis contribuciones más recientes y algunos de mis proyectos destacados.

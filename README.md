@@ -145,8 +145,6 @@ He reportado fallos de seguridad a grandes empresas, incluyendo:
 - **RedTeam - Penetration Testing and Ethical Hacking**, Cybrary
 - **RedTeam - Practical Ethical Hacking with CyberMentor**, Udemy
 
-## ⭐ Testimonios
-*"Aitor es un investigador de seguridad extremadamente dedicado y talentoso. Sus descubrimientos han sido invaluables para nuestra empresa."* - Juan Pérez, Jefe de Seguridad en XYZ Corp.
 
 ## 📫 Contacto
 - **LinkedIn**: [Aitor Herrero](https://www.linkedin.com/in/aitor-herrero)

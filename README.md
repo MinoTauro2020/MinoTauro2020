@@ -49,10 +49,7 @@ He descubierto y documentado varias vulnerabilidades de día cero (CVE). Algunos
 | **[CRTL-TIPS](https://github.com/MinoTauro2020/CRTL-TIPS)** | Consejos para CRTL (Red Team) | 23 dic 2024 |
 | **[certifications](https://github.com/MinoTauro2020/certifications)** | Material para certificaciones | 25 oct 2024 |
 | **[ReversingMalware](https://github.com/MinoTauro2020/ReversingMalware)** | Ingeniería inversa de malware (Privado) | 23 sep 2024 |
-| **[PurpleHunt](https://github.com/MinoTauro2020/PurpleHunt)** | Servicio para asegurar SOC al 100% (Privado) | 6 sep 2024 |
-| **[PurpleTeam-ThreatHunting](https://github.com/MinoTauro2020/PurpleTeam-ThreatHunting)** | Ataques principales para Purple Team (Privado) | 3 sep 2024 |
 | **[ActiveDirectory_Definitions](https://github.com/MinoTauro2020/ActiveDirectory_Definitions)** | Definiciones de Active Directory | 3 sep 2024 |
-| **[MinoTauro2020](https://github.com/MinoTauro2020/MinoTauro2020)** | Mi perfil personal | 26 jul 2024 |
 | **[ActiveDirectory-_tips](https://github.com/MinoTauro2020/ActiveDirectory-_tips)** | Consejos y trucos para Active Directory | 22 jul 2024 |
 | **[CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149)** | CSRF Add Root Account | 12 oct 2023 |
 | **[CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147)** | Vulnerabilidad CSRF | 12 oct 2023 |
